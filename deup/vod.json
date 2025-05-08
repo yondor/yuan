@@ -1,169 +1,166 @@
 [
     {
         "name": "360|点播",
-        "type": 1,
         "api": "https://360zy.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "豆瓣|点播",
-        "type": 1,
         "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn",
         "check": 1
     },
     {
         "name": "旺旺|点播",
-        "type": 1,
         "api": "https://api.wwzy.tv/api.php/provide/vod/",
         "check": 1
     },
     {
+        "name": "墨斗|点播",
+        "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+        "check": 1
+    },
+    {
         "name": "黑木耳|点播",
-        "type": 1,
         "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "金鹰|点播",
-        "type": 1,
         "api": "https://jinyingzy.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "宝片|点播",
-        "type": 1,
         "api": "https://zpsps.com/api.php/provide/vod/",
         "check": 1
     },
     {
+        "name": "牛牛|点播",
+        "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+        "check": 1
+    },
+    {
         "name": "丫丫|点播",
-        "type": 1,
         "api": "https://cj.yayazy.net/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "豪华|点播",
-        "type": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod",
         "check": 1
     },
     {
         "name": "极速|点播",
-        "type": 1,
         "api": "https://jszyapi.com/api.php/provide/vod",
         "check": 1
     },
     {
         "name": "索尼|点播",
-        "type": 1,
         "api": "https://suoniapi.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "非凡|点播",
-        "type": 1,
         "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "暴风|点播",
-        "type": 1,
         "api": "https://bfzyapi.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "红牛|点播",
-        "type": 1,
         "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
         "check": 1
     },
     {
+        "name": "闪电|点播",
+        "api": "http://sdzyapi.com/api.php/provide/vod/",
+        "check": 1
+    },
+    {
         "name": "樱花|点播",
-        "type": 1,
         "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "卧龙|点播",
-        "type": 1,
         "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "虎牙|点播",
-        "type": 1,
         "api": "https://www.huyaapi.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "飘零|点播",
-        "type": 1,
         "api": "https://p2100.net/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "无尽|点播",
-        "type": 1,
         "api": "https://api.wujinapi.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "速博|点播",
-        "type": 1,
         "api": "https://subocaiji.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "魔都|点播",
-        "type": 1,
         "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "最大|点播",
-        "type": 1,
         "api": "http://zuidazy.me/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "火狐|点播",
-        "type": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod/",
         "check": 1
     },
     {
+        "name": "新浪|点播",
+        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+        "check": 1
+    },
+    {
         "name": "森林资源|AV",
-        "type": 1,
         "api": "https://slapibf.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "番号资源|AV",
-        "type": 1,
         "api": "http://fhapi9.com/api.php/provide/vod/",
         "check": 1
     },
     {
         "name": "AIvin|AV",
-        "type": 1,
         "api": "http://lbapiby.com/api.php/provide/vod/at/json",
         "check": 1
     },
     {
         "name": "玉兔资源|AV",
-        "type": 1,
         "api": "https://apiyutu.com/api.php/provide/vod/",
         "check": 1
     },
     {
+        "name": "精品资源|AV",
+        "api": "https://www.jingpinx.com/api.php/provide/vod/",
+        "check": 1
+    },
+    {
         "name": "草榴资源|AV",
-        "type": 1,
         "api": "https://www.caoliuzyw.com/api.php/prodao/vod/",
         "check": 1
     },
     {
         "name": "老色逼资源|AV",
-        "type": 1,
         "api": "https://apilsbzy1.com/api.php/provide/vod/",
         "check": 1
     },
@@ -183,13 +180,18 @@
         "check": 1
     },
     {
+        "name": "光速资源",
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+        "check": 1
+    },
+    {
         "name": "百度资源",
         "api": "https://api.apibdzy.com/api.php/provide/vod/",
         "check": 1
     },
     {
-        "name": "飘花电影",
-        "api": "http://www.zzrhgg.com/api.php/provide/vod/",
+        "name": "色南国",
+        "api": "https://api.sexnguon.com/api.php/provide/vod/",
         "check": 1
     },
     {
@@ -203,8 +205,23 @@
         "check": 1
     },
     {
+        "name": "91md",
+        "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+        "check": 1
+    },
+    {
         "name": "映迷",
         "api": "https://www.inmi.app/api.php/provide/vod/",
+        "check": 1
+    },
+    {
+        "name": "CK资源",
+        "api": "https://ckzy.me/api.php/provide/vod/",
+        "check": 1
+    },
+    {
+        "name": "乐播资源",
+        "api": "https://lbapi9.com/api.php/provide/vod/at/json",
         "check": 1
     },
     {
@@ -248,13 +265,13 @@
         "check": 1
     },
     {
-        "name": "小猫咪",
-        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+        "name": "色色资源",
+        "api": "http://secj8.com/inc/sapi.php",
         "check": 1
     },
     {
-        "name": "1080资源库",
-        "api": "https://api.1080zyku.com/inc/api_mac10.php",
+        "name": "小猫咪",
+        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
         "check": 1
     },
     {
@@ -265,6 +282,11 @@
     {
         "name": "光速资源",
         "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+        "check": 1
+    },
+    {
+        "name": "77韩剧",
+        "api": "https://www.77hanju.com/api.php/provide/vod/",
         "check": 1
     },
     {
@@ -288,6 +310,11 @@
         "check": 1
     },
     {
+        "name": "盘看看",
+        "api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
+        "check": 1
+    },
+    {
         "name": "小鸟动漫",
         "api": "http://xydm.baicai.buzz/api.php/provide/vod/",
         "check": 1
@@ -300,6 +327,11 @@
     {
         "name": "胖猫影视",
         "api": "https://www.pangmaotv.com/api.php/provide/vod/",
+        "check": 1
+    },
+    {
+        "name": "banyung搬运工资源",
+        "api": "https://cj.banyung.xyz/",
         "check": 1
     },
     {
@@ -333,147 +365,98 @@
         "check": 1
     },
     {
-        "name": "-----",
-        "type": 1,
+        "name": "---------------------------",
         "api": "",
         "check": 0
     },
     {
-        "name": "墨斗|点播",
-        "type": 1,
-        "api": "https: //www.mdzyapi.com/api.php/provide/vod/",
-        "check": 0
-    },
-    {
         "name": "华为吧|点播",
-        "type": 1,
         "api": "https://hw8.live/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "腐剧|点播",
-        "type": 1,
         "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "OK|点播",
-        "type": 1,
         "api": "https://okzyw9.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "小黄人|点播",
-        "type": 1,
         "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
         "check": 0
     },
     {
-        "name": "牛牛|点播",
-        "type": 1,
-        "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-        "check": 0
-    },
-    {
         "name": "影图|点播",
-        "type": 1,
         "api": "https://cj.vodimg.top/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "U酷|点播",
-        "type": 1,
         "api": "https://api.ukuapi.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "ikun|点播",
-        "type": 1,
         "api": "https://ikunzyapi.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "量子|点播",
-        "type": 1,
         "api": "https://cj.lziapi.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "快车|点播",
-        "type": 1,
         "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
         "check": 0
     },
     {
-        "name": "闪电|点播",
-        "type": 1,
-        "api": "http://sdzyapi.com/api.php/provide/vod/",
-        "check": 0
-    },
-    {
-        "name": "新浪|点播",
-        "type": 1,
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-        "check": 0
-    },
-    {
         "name": "探探资源|AV",
-        "type": 1,
         "api": "https://apittzy.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "奥斯卡资源|AV",
-        "type": 1,
         "api": "https://aosikazy.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "老鸭资源|AV",
-        "type": 1,
         "api": "https://api.apilyzy.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "91麻豆|AV",
-        "type": 1,
         "api": "https://91md.me/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "易看资源|AV",
-        "type": 1,
         "api": "https://api.yikanapi.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "鲨鱼资源|AV",
-        "type": 1,
         "api": "https://shayuapi.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "黄瓜资源|AV",
-        "type": 1,
         "api": "https://www.zy018.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "辣椒资源|AV",
-        "type": 1,
         "api": "https://apilj.com/api.php/provide/vod/",
         "check": 0
     },
     {
         "name": "奶香香|AV",
-        "type": 1,
         "api": "https://Naixxzy.com/api.php/provide/vod/",
-        "check": 0
-    },
-    {
-        "name": "精品资源|AV",
-        "type": 1,
-        "api": "https://www.jingpinx.com/api.php/provide/vod/",
         "check": 0
     },
     {
@@ -537,11 +520,6 @@
         "check": 0
     },
     {
-        "name": "光速资源",
-        "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-        "check": 0
-    },
-    {
         "name": "北斗星资源",
         "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/",
         "check": 0
@@ -559,6 +537,11 @@
     {
         "name": "艾旦影视",
         "api": "https://lovedan.net/api.php/provide/vod/",
+        "check": 0
+    },
+    {
+        "name": "飘花电影",
+        "api": "http://www.zzrhgg.com/api.php/provide/vod/",
         "check": 0
     },
     {
@@ -647,11 +630,6 @@
         "check": 0
     },
     {
-        "name": "色南国",
-        "api": "https://api.sexnguon.com/api.php/provide/vod/",
-        "check": 0
-    },
-    {
         "name": "色窝",
         "api": "https://sewozyapi.com/api.php/provide/vod/",
         "check": 0
@@ -702,11 +680,6 @@
         "check": 0
     },
     {
-        "name": "91md",
-        "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-        "check": 0
-    },
-    {
         "name": "狼友",
         "api": "https://www.langyouzy.com/api.php/provide/vod/",
         "check": 0
@@ -732,11 +705,6 @@
         "check": 0
     },
     {
-        "name": "CK资源",
-        "api": "https://ckzy.me/api.php/provide/vod/",
-        "check": 0
-    },
-    {
         "name": "CK资源2",
         "api": "http://www.feifei67.com/api.php/provide/vod/",
         "check": 0
@@ -744,11 +712,6 @@
     {
         "name": "JAV名优",
         "api": "http://mygzycj.com/api.php",
-        "check": 0
-    },
-    {
-        "name": "乐播资源",
-        "api": "https://lbapi9.com/api.php/provide/vod/at/json",
         "check": 0
     },
     {
@@ -779,11 +742,6 @@
     {
         "name": "爱播资源",
         "api": "https://cj.apiabzy.com/api.php/provide/vod/",
-        "check": 0
-    },
-    {
-        "name": "色色资源",
-        "api": "http://secj8.com/inc/sapi.php",
         "check": 0
     },
     {
@@ -927,6 +885,11 @@
         "check": 0
     },
     {
+        "name": "1080资源库",
+        "api": "https://api.1080zyku.com/inc/api_mac10.php",
+        "check": 0
+    },
+    {
         "name": "TOM资源",
         "api": "https://api.tomcaiji.com/api.php/provide/vod/",
         "check": 0
@@ -964,11 +927,6 @@
     {
         "name": "韩剧资源",
         "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
-        "check": 0
-    },
-    {
-        "name": "77韩剧",
-        "api": "https://www.77hanju.com/api.php/provide/vod/",
         "check": 0
     },
     {
@@ -1144,11 +1102,6 @@
     {
         "name": "天天影视2",
         "api": "http://tttv.cf/api.php/provide/vod/",
-        "check": 0
-    },
-    {
-        "name": "盘看看",
-        "api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
         "check": 0
     },
     {
@@ -1349,11 +1302,6 @@
     {
         "name": "无尽资源",
         "api": "https://wujinzy.com/api.php/provide/vod/",
-        "check": 0
-    },
-    {
-        "name": "banyung搬运工资源",
-        "api": "https://cj.banyung.xyz/",
         "check": 0
     },
     {
